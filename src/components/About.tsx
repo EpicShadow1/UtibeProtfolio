@@ -84,7 +84,7 @@ const About = () => {
             >
               <div className="aspect-square rounded-2xl overflow-hidden bg-gradient-to-br from-primary to-secondary p-1">
                 <img
-                  src="/Utty_Professional_pics.jpg"
+                  src="public/Utty_Professional_pics.jpg"
                   alt="Profile"
                   className="w-full h-full object-cover rounded-2xl"
                 />
