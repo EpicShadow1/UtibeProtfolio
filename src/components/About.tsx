@@ -11,7 +11,7 @@ const About = () => {
   const socialLinks = [
     {
       icon: <Github size={24} />,
-      href: 'https://github.com/yourusername',
+      href: 'https://github.com/EpicShadow01',
       label: 'GitHub',
     },
     {
@@ -21,7 +21,7 @@ const About = () => {
     },
     {
       icon: <Mail size={24} />,
-      href: 'mailto:your.email@example.com',
+      href: 'mailto:miracleakpan2828@gmail.com',
       label: 'Email',
     },
   ];
@@ -48,13 +48,13 @@ const About = () => {
               className="space-y-6"
             >
               <p className="text-gray-300 text-lg leading-relaxed">
-                I'm a passionate Full Stack Developer with expertise in building modern web applications.
+                I'm a passionate Full Stack Developer with expertise in building modern web applications and Mobile Application.
                 With a strong foundation in both frontend and backend technologies, I create seamless
                 user experiences and robust server-side solutions.
               </p>
               <p className="text-gray-300 text-lg leading-relaxed">
                 My journey in software development started with a curiosity for creating things that
-                make a difference. I specialize in React, TypeScript, and Node.js, always staying
+                make a difference. I specialize in React, Javascript, TypeScript, and Node.js, always staying
                 up-to-date with the latest technologies and best practices.
               </p>
               <div className="flex space-x-4">
@@ -84,7 +84,7 @@ const About = () => {
             >
               <div className="aspect-square rounded-2xl overflow-hidden bg-gradient-to-br from-primary to-secondary p-1">
                 <img
-                  src="/public/Utty_Professional_pics.jpg"
+                  src="/Utty_Professional_pics.jpg"
                   alt="Profile"
                   className="w-full h-full object-cover rounded-2xl"
                 />

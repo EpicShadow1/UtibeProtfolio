@@ -33,19 +33,19 @@ const Contact = () => {
     {
       icon: <Mail size={24} />,
       title: 'Email',
-      content: 'your.email@example.com',
-      href: 'mailto:your.email@example.com',
+      content: 'miracleakpan2828@gmail.com',
+      href: 'mailto:miracleakpana2828@gmail',
     },
     {
       icon: <Phone size={24} />,
       title: 'Phone',
-      content: '+1 234 567 890',
+      content: '+234 8122566323, +234 8167048733',
       href: 'tel:+1234567890',
     },
     {
       icon: <MapPin size={24} />,
       title: 'Location',
-      content: 'Your City, Country',
+      content: 'Kaduna, Nigeria',
       href: '#',
     },
   ];
